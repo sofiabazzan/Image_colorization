@@ -1,1 +1,1 @@
-In this code we provide a comparison of different models for image colorization.
+In this code we provide a comparison of different models for image colorization. The dataset that we decided to use is the Oxford 102 Flower dataset that can be downloaded at this link: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz
